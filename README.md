@@ -15,7 +15,7 @@ This project demonstrates modern cloud-native application development using Azur
 
 **Status:** ✅ Currently deployed and running on Azure
 
-**Live API:** https://ca-productcatalog-api.ambitiousmushroom-5fc6c415.eastus2.azurecontainerapps.io
+**Live API:** https://ca-productcatalog-api.ambitiousmushroom-5fc6c415.eastus2.azurecontainerapps.io/swagger
 
 **Swagger UI:** https://ca-productcatalog-api.ambitiousmushroom-5fc6c415.eastus2.azurecontainerapps.io/swagger
 
